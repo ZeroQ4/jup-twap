@@ -1,6 +1,6 @@
 ## Jup Twap
 
-Twap swap using [Jupiter aggregator](https://jup.ag/)
+Twap swap. using [Jupiter aggregator](https://jup.ag/)
 
 Built using:
 
